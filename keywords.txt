@@ -1,0 +1,47 @@
+#######################################
+# Syntax Coloring Map
+#######################################
+
+#######################################
+# Datatypes (KEYWORD1)
+#######################################
+
+TCS230	                      KEYWORD1
+RGB_SIZE                      KEYWORD1
+NO_PIN                        KEYWORD1
+sensorData                    KEYWORD1
+colorData                     KEYWORD1
+
+#######################################
+# Methods and Functions (KEYWORD2)
+#######################################
+
+begin                         KEYWORD2 
+setFilter                     KEYWORD2     
+setFrequency                  KEYWORD2        
+setEnable                     KEYWORD2     
+setSampling                   KEYWORD2       
+setDarkCal                    KEYWORD2      
+darkCalibration               KEYWORD2           
+setWhiteCal                   KEYWORD2       
+whiteCalibration              KEYWORD2            
+setDarkSensitive              KEYWORD2            
+setWhiteSensitive             KEYWORD2             
+getRGB                        KEYWORD2  
+getRaw                        KEYWORD2  
+getRed                        KEYWORD2  
+getGreen                      KEYWORD2    
+getBlue                       KEYWORD2   
+getRawRed                     KEYWORD2     
+getRawGreen                   KEYWORD2       
+getRawBlue                    KEYWORD2      
+getColor                      KEYWORD2    
+readSingle                    KEYWORD2      
+getColorToString              KEYWORD2            
+read                          KEYWORD2
+available                     KEYWORD2
+
+#######################################
+# Constants (LITERAL1)
+#######################################
+

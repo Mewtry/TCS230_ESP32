@@ -1,0 +1,20 @@
+{
+    "name": "TCS230_ESP32",
+    "keywords": "tcs230,sensor,color,esp32",
+    "description": "Library for the TCS230 color sensor for the ESP32",
+    "repository":
+    {
+        "type": "git",
+        "url": "https://github.com/Mewtry/TCS230_ESP32"
+    },
+    "authors":
+    {
+        "name": "Theo Pires",
+        "url": "https://github.com/Mewtry",
+        "maintainer": true
+    },
+    "version": "1.0.0",
+    "license": "MIT",
+    "frameworks": "arduino",
+    "platforms": "espressif8266, espressif32, ststm32"
+}
